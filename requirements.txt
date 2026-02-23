@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 groq
-sclib
 requests
 python-multipart
+soundcloud-v2
